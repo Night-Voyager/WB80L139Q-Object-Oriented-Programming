@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Ch8 Operator Overloading - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\asus\AppData\Local\Temp\RSP3B79.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/Ch8 Operator Overloading.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\C++\Ch8 Operator Overloading\Ch8 Operator Overloading.cpp"
+]
+Creating command line "cl.exe @C:\Users\asus\AppData\Local\Temp\RSP3B79.tmp" 
+Creating temporary file "C:\Users\asus\AppData\Local\Temp\RSP3B7A.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/Ch8 Operator Overloading.pdb" /debug /machine:I386 /out:"Debug/Ch8 Operator Overloading.exe" /pdbtype:sept 
+".\Debug\Ch8 Operator Overloading.obj"
+]
+Creating command line "link.exe @C:\Users\asus\AppData\Local\Temp\RSP3B7A.tmp"
+<h3>Output Window</h3>
+Compiling...
+Ch8 Operator Overloading.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+Ch8 Operator Overloading.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
